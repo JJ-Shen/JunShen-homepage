@@ -25,9 +25,9 @@
 <p>[4] <span style="font-weight: bold;">Jun Shen</span>, Fuchun Guo, Xiaofeng Chen, Willy Susilo. Secure Cloud Auditing with Efficient Ownership Transfer. <span style="color: #326DA1;">ESORICS</span>, LNCS, Springer, 12308: 611-631, 2020.  
 <p>[5] Jian Shen, <span style="font-weight: bold;">Jun Shen</span>, Xiaofeng Chen, Xinyi Huang, Willy Susilo. An Efficient Public Auditing Protocol with Novel Dynamic Structure for Cloud Data. <span style="color: #326DA1;">IEEE Transactions on Information Forensics & Security</span>, 10(12): 2402-2415, 2017.  
 <p>[6] Jianghong Wei, Guohua Tian, <span style="font-weight: bold;">Jun Shen</span>, Xiaofeng Chen, Willy Susilo. Optimal Verifiable Data Streaming Protocol with Data Auditing. <span style="color: #326DA1;">ESORICS</span>, LNCS, Springer, 12973: 296-312, 2021.  
-<p>[7] Jianghong Wei, Meixia Miao, Guohua Tian, <span style="font-weight: bold;">Jun Shen</span>, Xiaofeng Chen, Willy Susilo. Optimal Verifiable Data Streaming Under Concurrent Queries. <span style="color: #326DA1;">IEEE Transactions on Mobile Computing, 2023. DOI: 10.1109/TMC.2023.3309270.  
+<p>[7] Jianghong Wei, Meixia Miao, Guohua Tian, <span style="font-weight: bold;">Jun Shen</span>, Xiaofeng Chen, Willy Susilo. Optimal Verifiable Data Streaming Under Concurrent Queries. <span style="color: #326DA1;">IEEE Transactions on Mobile Computing</span>, 2023. DOI: 10.1109/TMC.2023.3309270.  
 <p>[8] Chang Wang, <span style="font-weight: bold;">Jun Shen</span>, Shichong Tan. PoSI: A New Consensus Protocol Based on Storage Age and Data Integrity Verification. <span style="color: #326DA1;">Journal of Internet Technology</span>, 22(5): 979-989, 2021.  
-<p>[9] Ruiyang Li, <span style="font-weight: bold;">Jun Shen</span>, Shichong Tan, Kuan-Ching Li. A Secure and Efficient Conditional Anonymous Scheme for Permissionless Blockchains. <span style="color: #326DA1;">Journal of Internet Technology</span>, 22(6): 1215-1227, 2021.
+<p>[9] Ruiyang Li, <span style="font-weight: bold;">Jun Shen</span>, Shichong Tan, Kuan-Ching Li. A Secure and Efficient Conditional Anonymous Scheme for Permissionless Blockchains. <span style="color: #326DA1;">Journal of Internet Technology</span>, 22(6): 1215-1227, 2021.<br>
 
 参研项目
 ======
