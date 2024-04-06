@@ -27,7 +27,7 @@
 <p>[6] Jianghong Wei, Guohua Tian, <span style="font-weight: bold;">Jun Shen</span>, Xiaofeng Chen, Willy Susilo. Optimal Verifiable Data Streaming Protocol with Data Auditing. <span style="color: #326DA1;">ESORICS</span>, LNCS, Springer, 12973: 296-312, 2021.  
 <p>[7] Jianghong Wei, Meixia Miao, Guohua Tian, <span style="font-weight: bold;">Jun Shen</span>, Xiaofeng Chen, Willy Susilo. Optimal Verifiable Data Streaming Under Concurrent Queries. <span style="color: #326DA1;">IEEE Transactions on Mobile Computing</span>, 2023. DOI: 10.1109/TMC.2023.3309270.  
 <p>[8] Chang Wang, <span style="font-weight: bold;">Jun Shen</span>, Shichong Tan. PoSI: A New Consensus Protocol Based on Storage Age and Data Integrity Verification. <span style="color: #326DA1;">Journal of Internet Technology</span>, 22(5): 979-989, 2021.  
-<p>[9] Ruiyang Li, <span style="font-weight: bold;">Jun Shen</span>, Shichong Tan, Kuan-Ching Li. A Secure and Efficient Conditional Anonymous Scheme for Permissionless Blockchains. <span style="color: #326DA1;">Journal of Internet Technology</span>, 22(6): 1215-1227, 2021.<br>
+<p>[9] Ruiyang Li, <span style="font-weight: bold;">Jun Shen</span>, Shichong Tan, Kuan-Ching Li. A Secure and Efficient Conditional Anonymous Scheme for Permissionless Blockchains. <span style="color: #326DA1;">Journal of Internet Technology</span>, 22(6): 1215-1227, 2021.<br><br>
 
 参研项目
 ======
