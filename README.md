@@ -20,17 +20,16 @@
 代表作
 ======
 <div>
-    <p>[1] <span style="font-weight: bold;">Jun Shen</span>, Xiaofeng Chen, Zheli Liu, Willy Susilo. Verifiable and Redactable Blockchains with Fully Editing Operations. <span style="color: #6492C2;">IEEE Transactions on Information Forensics & Security</span>, (18): 3787-3802, 2023.  
-    <p>[2] Jun Shen, Xiaofeng Chen, Xinyi Huang, Yang Xiang. Public Proofs of Data Replication and Retrievability with User-friendly Replication. IEEE Transactions on Dependable and Secure Computing, pp: 1-11, 2023. DOI: 10.1109/TDSC.2023.3299627.  
-    <p>[3] Jun Shen, Xiaofeng Chen, Jianghong Wei, Fuchun Guo, Willy Susilo. Blockchain-based Accountable Auditing with Multi-Ownership Transfer. IEEE Transactions on Cloud Computing, 3(11): 2711-2724, 2022.  
-    <p>[4] Jun Shen, Fuchun Guo, Xiaofeng Chen, Willy Susilo. Secure Cloud Auditing with Efficient Ownership Transfer. ESORICS, LNCS, Springer, 12308: 611-631, 2020.  
-    <p>[5] Jian Shen, Jun Shen, Xiaofeng Chen, Xinyi Huang, Willy Susilo. An Efficient Public Auditing Protocol with Novel Dynamic Structure for Cloud Data. IEEE Transactions on Information Forensics & Security, 10(12): 2402-2415, 2017.  
-    <p>[6] Jianghong Wei, Guohua Tian, Jun Shen, Xiaofeng Chen, Willy Susilo. Optimal Verifiable Data Streaming Protocol with Data Auditing. ESORICS, LNCS, Springer, 12973: 296-312, 2021.  
-    <p>[7] Jianghong Wei, Meixia Miao, Guohua Tian, Jun Shen, Xiaofeng Chen, Willy Susilo. Optimal Verifiable Data Streaming Under Concurrent Queries. IEEE Transactions on Mobile Computing, 2023. DOI: 10.1109/TMC.2023.3309270.  
-    <p>[8] Chang Wang, Jun Shen, Shichong Tan. PoSI: A New Consensus Protocol Based on Storage Age and Data Integrity Verification. Journal of Internet Technology, 22(5): 979-989, 2021.  
-    <p>[9] Ruiyang Li, Jun Shen, Shichong Tan, Kuan-Ching Li. A Secure and Efficient Conditional Anonymous Scheme for Permissionless Blockchains. Journal of Internet Technology, 22(6): 1215-1227, 2021.
+    <p>[1] <span style="font-weight: bold;">Jun Shen</span>, Xiaofeng Chen, Zheli Liu, Willy Susilo. Verifiable and Redactable Blockchains with Fully Editing Operations. <span style="color: #326DA1;">IEEE Transactions on Information Forensics & Security</span>, (18): 3787-3802, 2023.  
+    <p>[2] <span style="font-weight: bold;">Jun Shen</span>, Xiaofeng Chen, Xinyi Huang, Yang Xiang. Public Proofs of Data Replication and Retrievability with User-friendly Replication. <span style="color: #326DA1;">IEEE Transactions on Dependable and Secure Computing</span>, pp: 1-11, 2023. DOI: 10.1109/TDSC.2023.3299627.  
+    <p>[3] <span style="font-weight: bold;">Jun Shen</span>, Xiaofeng Chen, Jianghong Wei, Fuchun Guo, Willy Susilo. Blockchain-based Accountable Auditing with Multi-Ownership Transfer. <span style="color: #326DA1;">IEEE Transactions on Cloud Computing</span>, 3(11): 2711-2724, 2022.  
+    <p>[4] <span style="font-weight: bold;">Jun Shen</span>, Fuchun Guo, Xiaofeng Chen, Willy Susilo. Secure Cloud Auditing with Efficient Ownership Transfer. <span style="color: #326DA1;">ESORICS</span>, LNCS, Springer, 12308: 611-631, 2020.  
+    <p>[5] Jian Shen, <span style="font-weight: bold;">Jun Shen</span>, Xiaofeng Chen, Xinyi Huang, Willy Susilo. An Efficient Public Auditing Protocol with Novel Dynamic Structure for Cloud Data. <span style="color: #326DA1;">IEEE Transactions on Information Forensics & Security</span>, 10(12): 2402-2415, 2017.  
+    <p>[6] Jianghong Wei, Guohua Tian, <span style="font-weight: bold;">Jun Shen</span>, Xiaofeng Chen, Willy Susilo. Optimal Verifiable Data Streaming Protocol with Data Auditing. <span style="color: #326DA1;">ESORICS</span>, LNCS, Springer, 12973: 296-312, 2021.  
+    <p>[7] Jianghong Wei, Meixia Miao, Guohua Tian, <span style="font-weight: bold;">Jun Shen</span>, Xiaofeng Chen, Willy Susilo. Optimal Verifiable Data Streaming Under Concurrent Queries. <span style="color: #326DA1;">IEEE Transactions on Mobile Computing, 2023. DOI: 10.1109/TMC.2023.3309270.  
+    <p>[8] Chang Wang, <span style="font-weight: bold;">Jun Shen</span>, Shichong Tan. PoSI: A New Consensus Protocol Based on Storage Age and Data Integrity Verification. <span style="color: #326DA1;">Journal of Internet Technology</span>, 22(5): 979-989, 2021.  
+    <p>[9] Ruiyang Li, <span style="font-weight: bold;">Jun Shen</span>, Shichong Tan, Kuan-Ching Li. A Secure and Efficient Conditional Anonymous Scheme for Permissionless Blockchains. <span style="color: #326DA1;">Journal of Internet Technology</span>, 22(6): 1215-1227, 2021.
 </div>
-
 
 参研项目
 ======
