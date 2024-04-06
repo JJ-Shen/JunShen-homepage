@@ -17,8 +17,10 @@
 ======
 2023年6月毕业于西安电子科技大学 网络空间安全专业，师从陈晓峰教授。2023年8月加入上海大学。主要研究方向为数据安全、云计算、区块链等，已在国际知名信息安全期刊和会议上发表/录用学术论文 10 余篇，其中包括 CCF 推荐的 A 类 IEEE Trans. 期刊论文 4 篇、B 类会议论文 2 篇、ESI 高被引论文 1 篇；申请国家发明专利 6 项，已授权 3 项；参研专用技术预研项目 1 项、国家自然科学基金重点国际合作与交流项目 1 项、省级重点研发计划 2 项。
 
+
 代表作
 ======
+<div>
 <p>[1] <span style="font-weight: bold;">Jun Shen</span>, Xiaofeng Chen, Zheli Liu, Willy Susilo. Verifiable and Redactable Blockchains with Fully Editing Operations. <span style="color: #326DA1;">IEEE Transactions on Information Forensics & Security</span>, (18): 3787-3802, 2023.  
 <p>[2] <span style="font-weight: bold;">Jun Shen</span>, Xiaofeng Chen, Xinyi Huang, Yang Xiang. Public Proofs of Data Replication and Retrievability with User-friendly Replication. <span style="color: #326DA1;">IEEE Transactions on Dependable and Secure Computing</span>, pp: 1-11, 2023. DOI: 10.1109/TDSC.2023.3299627.  
 <p>[3] <span style="font-weight: bold;">Jun Shen</span>, Xiaofeng Chen, Jianghong Wei, Fuchun Guo, Willy Susilo. Blockchain-based Accountable Auditing with Multi-Ownership Transfer. <span style="color: #326DA1;">IEEE Transactions on Cloud Computing</span>, 3(11): 2711-2724, 2022.  
@@ -28,6 +30,8 @@
 <p>[7] Jianghong Wei, Meixia Miao, Guohua Tian, <span style="font-weight: bold;">Jun Shen</span>, Xiaofeng Chen, Willy Susilo. Optimal Verifiable Data Streaming Under Concurrent Queries. <span style="color: #326DA1;">IEEE Transactions on Mobile Computing</span>, 2023. DOI: 10.1109/TMC.2023.3309270.  
 <p>[8] Chang Wang, <span style="font-weight: bold;">Jun Shen</span>, Shichong Tan. PoSI: A New Consensus Protocol Based on Storage Age and Data Integrity Verification. <span style="color: #326DA1;">Journal of Internet Technology</span>, 22(5): 979-989, 2021.  
 <p>[9] Ruiyang Li, <span style="font-weight: bold;">Jun Shen</span>, Shichong Tan, Kuan-Ching Li. A Secure and Efficient Conditional Anonymous Scheme for Permissionless Blockchains. <span style="color: #326DA1;">Journal of Internet Technology</span>, 22(6): 1215-1227, 2021.<br><br>
+</div>
+
 
 参研项目
 ======
