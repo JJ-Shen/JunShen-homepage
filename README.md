@@ -20,7 +20,7 @@
 代表作
 ======
 <div>
-    <p>[1] <span style="font-weight: bold; color: blue;">Jun Shen</span>, Xiaofeng Chen, Zheli Liu, Willy Susilo. Verifiable and Redactable Blockchains with Fully Editing Operations. <span style="color: blue;">IEEE Transactions on Information Forensics & Security</span>, (18): 3787-3802, 2023.  
+    <p>[1] <span style="font-weight: bold;">Jun Shen</span>, Xiaofeng Chen, Zheli Liu, Willy Susilo. Verifiable and Redactable Blockchains with Fully Editing Operations. <span style="color: #6492C2;">IEEE Transactions on Information Forensics & Security</span>, (18): 3787-3802, 2023.  
     <p>[2] Jun Shen, Xiaofeng Chen, Xinyi Huang, Yang Xiang. Public Proofs of Data Replication and Retrievability with User-friendly Replication. IEEE Transactions on Dependable and Secure Computing, pp: 1-11, 2023. DOI: 10.1109/TDSC.2023.3299627.  
     <p>[3] Jun Shen, Xiaofeng Chen, Jianghong Wei, Fuchun Guo, Willy Susilo. Blockchain-based Accountable Auditing with Multi-Ownership Transfer. IEEE Transactions on Cloud Computing, 3(11): 2711-2724, 2022.  
     <p>[4] Jun Shen, Fuchun Guo, Xiaofeng Chen, Willy Susilo. Secure Cloud Auditing with Efficient Ownership Transfer. ESORICS, LNCS, Springer, 12308: 611-631, 2020.  
