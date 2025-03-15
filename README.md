@@ -15,14 +15,14 @@
 
 个人简介
 ======
-2023年6月毕业于西安电子科技大学 网络空间安全专业，师从陈晓峰教授。2023年8月加入上海大学。主要研究方向为数据安全、云计算、区块链等，已在国际知名信息安全期刊和会议上发表/录用学术论文 10 余篇，其中包括 CCF 推荐的 A 类 IEEE Trans. 期刊论文 4 篇、B 类会议论文 2 篇、ESI 高被引论文 1 篇；申请国家发明专利 6 项，已授权 3 项；参研专用技术预研项目 1 项、国家自然科学基金重点国际合作与交流项目 1 项、省级重点研发计划 2 项。
+2023年6月毕业于西安电子科技大学 网络空间安全专业，师从陈晓峰教授。2023年8月加入上海大学。主要研究方向为数据安全、云计算、区块链等，已在国际知名信息安全期刊和会议上发表/录用学术论文 10 余篇，其中包括 CCF 推荐的 A 类 IEEE Trans. 期刊论文 4 篇、B 类会议论文 2 篇、ESI 高被引论文 1 篇；主持国家自然科学基金青年科学基金项目 1 项、上海市“科技创新行动计划”启明星培育(扬帆专项) 1 项、河南省重大科技专项子任务 1 项；参研专用技术预研项目 1 项、国家自然科学基金重点国际合作与交流项目 1 项、省级重点研发计划 2 项。
 
 
 代表作
 ======
 [1] <span style="font-weight: bold;">Jun Shen</span>, Xiaofeng Chen, Zheli Liu, Willy Susilo. Verifiable and Redactable Blockchains with Fully Editing Operations. <span style="color: #326DA1;">IEEE Transactions on Information Forensics & Security</span>, (18): 3787-3802, 2023.<br>  
-[2] <span style="font-weight: bold;">Jun Shen</span>, Xiaofeng Chen, Xinyi Huang, Yang Xiang. Public Proofs of Data Replication and Retrievability with User-friendly Replication. <span style="color: #326DA1;">IEEE Transactions on Dependable and Secure Computing</span>, pp: 1-11, 2023. DOI: 10.1109/TDSC.2023.3299627.<br>  
-[3] <span style="font-weight: bold;">Jun Shen</span>, Xiaofeng Chen, Jianghong Wei, Fuchun Guo, Willy Susilo. Blockchain-based Accountable Auditing with Multi-Ownership Transfer. <span style="color: #326DA1;">IEEE Transactions on Cloud Computing</span>, 3(11): 2711-2724, 2022.<br>  
+[2] <span style="font-weight: bold;">Jun Shen</span>, Xiaofeng Chen, Xinyi Huang, Yang Xiang. Public Proofs of Data Replication and Retrievability with User-friendly Replication. <span style="color: #326DA1;">IEEE Transactions on Dependable and Secure Computing</span>, 21(4): 2057-2067, 2023. DOI: 10.1109/TDSC.2023.3299627.<br>  
+[3] <span style="font-weight: bold;">Jun Shen</span>, Xiaofeng Chen, Jianghong Wei, Fuchun Guo, Willy Susilo. Blockchain-based Accountable Auditing with Multi-Ownership Transfer. <span style="color: #326DA1;">IEEE Transactions on Cloud Computing</span>, 11(3): 2711-2724, 2022.<br>  
 [4] <span style="font-weight: bold;">Jun Shen</span>, Fuchun Guo, Xiaofeng Chen, Willy Susilo. Secure Cloud Auditing with Efficient Ownership Transfer. <span style="color: #326DA1;">ESORICS</span>, LNCS, Springer, 12308: 611-631, 2020.<br>  
 [5] Jian Shen, <span style="font-weight: bold;">Jun Shen</span>, Xiaofeng Chen, Xinyi Huang, Willy Susilo. An Efficient Public Auditing Protocol with Novel Dynamic Structure for Cloud Data. <span style="color: #326DA1;">IEEE Transactions on Information Forensics & Security</span>, 10(12): 2402-2415, 2017.<br>  
 [6] Jianghong Wei, Guohua Tian, <span style="font-weight: bold;">Jun Shen</span>, Xiaofeng Chen, Willy Susilo. Optimal Verifiable Data Streaming Protocol with Data Auditing. <span style="color: #326DA1;">ESORICS</span>, LNCS, Springer, 12973: 296-312, 2021.<br>  
@@ -30,12 +30,6 @@
 [8] Chang Wang, <span style="font-weight: bold;">Jun Shen</span>, Shichong Tan. PoSI: A New Consensus Protocol Based on Storage Age and Data Integrity Verification. <span style="color: #326DA1;">Journal of Internet Technology</span>, 22(5): 979-989, 2021.<br>  
 [9] Ruiyang Li, <span style="font-weight: bold;">Jun Shen</span>, Shichong Tan, Kuan-Ching Li. A Secure and Efficient Conditional Anonymous Scheme for Permissionless Blockchains. <span style="color: #326DA1;">Journal of Internet Technology</span>, 22(6): 1215-1227, 2021.<br>
 
-
-参研项目
-======
-1. 国家自然科学基金国际合作与交流项目，开放融合环境下密文数据安全服务关键理论与技术。
-2. 陕西省重点研发计划，开放融合环境下区块链数据监管与安全审计关键技术。
-3. 山东省重点研发计划，区块链网络监管与安全防护关键技术。
 
 
 
